@@ -1,4 +1,4 @@
-# AI-Powered Resume Screening & Candidate Ranking System
+# SkillMatch
 
 🚀 **Live Deployment:** [https://skill--match.vercel.app](https://skill--match.vercel.app/)
 
